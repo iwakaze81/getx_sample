@@ -1,0 +1,20 @@
+{
+    "folders": [
+      {
+        "name": "workspace",
+        "path": "."
+      },
+      {
+        "name": "backend",
+        "path": "../backend"
+      },
+      {
+        "name": "mobile-app",
+        "path": "../mobile_app"
+      },
+    ],
+    "settings": {
+        "editor.tabSize": 2
+    }
+  }
+  
